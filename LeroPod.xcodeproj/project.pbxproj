@@ -12,6 +12,7 @@
 		43F7AB27201000BE003D3B29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43F7AB25201000BE003D3B29 /* Main.storyboard */; };
 		43F7AB29201000BE003D3B29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43F7AB28201000BE003D3B29 /* Assets.xcassets */; };
 		43F7AB2C201000BE003D3B29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43F7AB2A201000BE003D3B29 /* LaunchScreen.storyboard */; };
+		43F7AB34201000D8003D3B29 /* Lero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43F7AB33201000D8003D3B29 /* Lero.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		43F7AB28201000BE003D3B29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43F7AB2B201000BE003D3B29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		43F7AB2D201000BE003D3B29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43F7AB33201000D8003D3B29 /* Lero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lero.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		43F7AB20201000BE003D3B29 /* LeroPod */ = {
 			isa = PBXGroup;
 			children = (
+				43F7AB33201000D8003D3B29 /* Lero.swift */,
 				43F7AB21201000BE003D3B29 /* AppDelegate.swift */,
 				43F7AB23201000BE003D3B29 /* ViewController.swift */,
 				43F7AB25201000BE003D3B29 /* Main.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				43F7AB24201000BE003D3B29 /* ViewController.swift in Sources */,
 				43F7AB22201000BE003D3B29 /* AppDelegate.swift in Sources */,
+				43F7AB34201000D8003D3B29 /* Lero.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
